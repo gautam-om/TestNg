@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="227" started-at="2021-04-24T20:21:26 IST" finished-at="2021-04-24T20:21:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="227" started-at="2021-04-24T20:21:26 IST" finished-at="2021-04-24T20:21:26 IST">
+      <class name="Test.day1">
+        <test-method status="PASS" signature="carLoan()[pri:0, instance:Test.day1@44bd4b0a]" name="carLoan" duration-ms="37" started-at="2021-04-24T20:21:26 IST" finished-at="2021-04-24T20:21:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoan -->
+        <test-method status="PASS" signature="personal()[pri:0, instance:Test.day1@44bd4b0a]" name="personal" duration-ms="3" started-at="2021-04-24T20:21:26 IST" finished-at="2021-04-24T20:21:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personal -->
+      </class> <!-- Test.day1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
